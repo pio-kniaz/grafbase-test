@@ -39,6 +39,7 @@
     "@storybook/nextjs": "^7.0.26",
     "@storybook/react": "^7.0.26",
     "@storybook/testing-library": "^0.0.14-next.2",
-    "storybook": "^7.0.26"
+    "storybook": "^7.0.26",
+    "@grafbase/sdk": "~0.1.0"
   }
 }
